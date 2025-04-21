@@ -44,9 +44,3 @@ This cleaned dataset is now ready for:
 - Modeling or segmentation
 - Sentiment analysis on review content
 
-## ✅ Submission Guidelines Followed
-
-- Cleaned using Python
-- Includes notebook, dataset, and this README
-- Ready for GitHub upload
-
